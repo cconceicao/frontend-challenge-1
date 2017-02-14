@@ -1,4 +1,4 @@
-# frontend-challenge-1
+# Frontend challenge 1
 
 Challenge tasks
 
